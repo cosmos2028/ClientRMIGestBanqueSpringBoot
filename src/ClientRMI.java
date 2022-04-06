@@ -5,7 +5,9 @@ import java.rmi.RemoteException;
 
 import org.glsid.entities.Compte;
 import org.glsid.serviceRMI.BanqueRmiRemote;
-//clien RMI
+/*clien RMI
+ajout pour le test avec la fusion
+*/
 public class ClientRMI {
 
 	public static void main(String[] args) 
