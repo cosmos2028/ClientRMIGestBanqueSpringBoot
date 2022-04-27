@@ -5,9 +5,7 @@ import java.rmi.RemoteException;
 
 import org.glsid.entities.Compte;
 import org.glsid.serviceRMI.BanqueRmiRemote;
-/*clien RMI dans pring boot 
-ajout pour le test avec la fusion,nous sommes le 27/04
-*/
+
 public class ClientRMI {
 
 	public static void main(String[] args) 
