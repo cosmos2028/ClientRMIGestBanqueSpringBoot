@@ -7,6 +7,7 @@ import org.glsid.entities.Compte;
 import org.glsid.serviceRMI.BanqueRmiRemote;
 /*
  *BONJOUR
+*modif du 27:04:2022
 */
 public class ClientRMI {
 
